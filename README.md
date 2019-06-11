@@ -1,2 +1,6 @@
-# sqool
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+# SQOOL
+
+## Project Description
+This is a repo to practice SQL concepts
+
+
